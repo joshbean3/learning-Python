@@ -8,6 +8,8 @@ A running log of things I'm learning to build strong core software engineering s
 
 
 ### JOSH BEAN CORE
+|Resource|Progress|
+|---|---|
 |[CS50](https://cs50.harvard.edu/x/2025/)|⬜|
 |[100 Days of Python](https://www.udemy.com/course/100-days-of-code/learn/lecture/23154980?components=add_to_cart%2Cavailable_coupons%2Cbase_purchase_section%2Cbuy_button%2Cbuy_for_team%2Ccacheable_buy_button%2Ccacheable_deal_badge%2Ccacheable_discount_expiration%2Ccacheable_price_text%2Ccacheable_purchase_text%2Ccurated_for_ufb_notice_context%2Ccurriculum_context%2Cdeal_badge%2Cdiscount_expiration%2Cgift_this_course%2Cincentives%2Cinstructor_links%2Clifetime_access_context%2Cmoney_back_guarantee%2Cprice_text%2Cpurchase_tabs_context%2Cpurchase%2Crecommendation%2Credeem_coupon%2Csidebar_container%2Cpurchase_body_container%2Cone_click_checkout#content)|⬜|
 |[Roadmap: Full-stack Developer](https://roadmap.sh/full-stack)|⬜|
