@@ -12,17 +12,18 @@ A running log of things I'm learning to build strong core software engineering s
 |---|---|
 |[CS50](https://cs50.harvard.edu/x/2025/)|⬜|
 |[100 Days of Python](https://www.udemy.com/course/100-days-of-code/learn/lecture/23154980?components=add_to_cart%2Cavailable_coupons%2Cbase_purchase_section%2Cbuy_button%2Cbuy_for_team%2Ccacheable_buy_button%2Ccacheable_deal_badge%2Ccacheable_discount_expiration%2Ccacheable_price_text%2Ccacheable_purchase_text%2Ccurated_for_ufb_notice_context%2Ccurriculum_context%2Cdeal_badge%2Cdiscount_expiration%2Cgift_this_course%2Cincentives%2Cinstructor_links%2Clifetime_access_context%2Cmoney_back_guarantee%2Cprice_text%2Cpurchase_tabs_context%2Cpurchase%2Crecommendation%2Credeem_coupon%2Csidebar_container%2Cpurchase_body_container%2Cone_click_checkout#content)|⬜|
-|[Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/pages/syllabus/)|⬜|
-|[Roadmap: Full-stack Developer](https://roadmap.sh/full-stack)|⬜|
-|[READ: How to Design Programs](https://htdp.org/2024-11-6/Book/index.html)|⬜|
-|[READ: Structure and Interpretation of Computer Programs](https://web.mit.edu/6.001/6.037/sicp.pdf)|⬜|
-|[Scrimba Practice](https://scrimba.com/home)|⬜|
+|[Product Manager Roadmap](https://roadmap.sh/product-manager)|⬜|
 
 
 ### Python Programming ✅
 
 |Resource|Progress|
 |---|---|
+|[Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/pages/syllabus/)|⬜|
+|[Roadmap: Full-stack Developer](https://roadmap.sh/full-stack)|⬜|
+|[READ: How to Design Programs](https://htdp.org/2024-11-6/Book/index.html)|⬜|
+|[READ: Structure and Interpretation of Computer Programs](https://web.mit.edu/6.001/6.037/sicp.pdf)|⬜|
+|[Scrimba Practice](https://scrimba.com/home)|⬜|
 |[CS50: Introduction to Programming with Python](https://cs50.harvard.edu/x/2025/)|⬜|
 |[Learning How to Learn](https://learning.edx.org/course/course-v1:BarbaraOakley_OlavSchewe+LLAP+2T2022/home)|⬜|
 |[Scrimba Practice](https://scrimba.com/home)|⬜|
